@@ -1,0 +1,6 @@
+arguments: align_dataset_mtcnn.py align/input/ align/output/
+--------------------
+tensorflow version: 1.4.0
+--------------------
+git hash: 
+--------------------
